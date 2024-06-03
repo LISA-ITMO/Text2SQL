@@ -22,9 +22,13 @@
 
 ## Модель
 За основу была взята модель: https://huggingface.co/ai-forever/FRED-T5-large
+
 Количество параметров: 820М
+
 Количество скрытых слоёв: 24
+
 Модель дообучена с помощью Trainer API
+
 Дообученную модель можно найти на Hugging Face: https://huggingface.co/yuraz28/FRED-T5-know_sql-test.
 
 ## Участники: 
